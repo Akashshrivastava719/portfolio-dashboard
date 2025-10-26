@@ -14,6 +14,7 @@ app = Dash(__name__)
 app.title = "Portfolio Performance Dashboard"
 server = app.server  # Required for Render
 
+
 # Store for uploaded data
 current_data = {
     'portfolio': pd.DataFrame(),
