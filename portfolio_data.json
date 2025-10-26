@@ -680,88 +680,67 @@
   ],
   "sector_data": [
     {
-      "Sector": "AUTO ANCILLARY",
-      "Weight": 0.015956316984455907
+      "Current Value": 0.015956316984455907
     },
     {
-      "Sector": "BANKING",
-      "Weight": 0.03308875710329389
+      "Current Value": 0.03308875710329389
     },
     {
-      "Sector": "CHEMICALS",
-      "Weight": 0.0036814979772048367
+      "Current Value": 0.0036814979772048367
     },
     {
-      "Sector": "CHINA TECH",
-      "Weight": 0.024015086989366045
+      "Current Value": 0.024015086989366045
     },
     {
-      "Sector": "ENGINEERING & CAPITAL GOODS",
-      "Weight": 0.004310877619612681
+      "Current Value": 0.004310877619612681
     },
     {
-      "Sector": "FINANCIAL SERVICES",
-      "Weight": 0.009317895890599793
+      "Current Value": 0.009317895890599793
     },
     {
-      "Sector": "FLEXI CAP",
-      "Weight": 0.0050691673988026275
+      "Current Value": 0.0050691673988026275
     },
     {
-      "Sector": "FMCG",
-      "Weight": 0.0959720913934031
+      "Current Value": 0.0959720913934031
     },
     {
-      "Sector": "GLOBAL",
-      "Weight": 0.02546625843586456
+      "Current Value": 0.02546625843586456
     },
     {
-      "Sector": "IT",
-      "Weight": 0.1428108707465836
+      "Current Value": 0.1428108707465836
     },
     {
-      "Sector": "LARGECAP INDEX",
-      "Weight": 0.27551932862610956
+      "Current Value": 0.27551932862610956
     },
     {
-      "Sector": "MIDCAP INDEX",
-      "Weight": 0.022422425845925877
+      "Current Value": 0.022422425845925877
     },
     {
-      "Sector": "ON",
-      "Weight": 0.007797027478104809
+      "Current Value": 0.007797027478104809
     },
     {
-      "Sector": "PRECIOUS METAL",
-      "Weight": 0.20630182975700953
+      "Current Value": 0.20630182975700953
     },
     {
-      "Sector": "REAL ESTATE",
-      "Weight": 0.0028651245022183022
+      "Current Value": 0.0028651245022183022
     },
     {
-      "Sector": "SMALLCAP",
-      "Weight": 0.024650332983031268
+      "Current Value": 0.024650332983031268
     },
     {
-      "Sector": "TELECOM",
-      "Weight": 0.012392781079433467
+      "Current Value": 0.012392781079433467
     },
     {
-      "Sector": "TOURISM & HOSPITALITY",
-      "Weight": 0.0027107414348248814
+      "Current Value": 0.0027107414348248814
     },
     {
-      "Sector": "US NASDAQ",
-      "Weight": 0.046957604541979885
+      "Current Value": 0.046957604541979885
     },
     {
-      "Sector": "US S&P",
-      "Weight": 0.005035280872024836
+      "Current Value": 0.005035280872024836
     },
     {
-      "Sector": "US TECH",
-      "Weight": 0.0336587023401505
+      "Current Value": 0.0336587023401505
     }
   ],
   "risk_summary": [
