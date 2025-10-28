@@ -17,7 +17,7 @@ app.title = "Portfolio Performance Dashboard"
 server = app.server
 
 # GitHub raw URL to your JSON file (UPDATE THIS WITH YOUR ACTUAL URL)
-GITHUB_JSON_URL = "https://raw.githubusercontent.com/Akashshrivastava719/portfolio-dashboard/refs/heads/main/portfolio_data.json?token=GHSAT0AAAAAADN5C2FOAIWNTNDFJZRE2KVU2H56ERA"
+GITHUB_JSON_URL = "https://raw.githubusercontent.com/Akashshrivastava719/portfolio-dashboard/main/portfolio_data.json"
 
 # Store the current data
 current_data = {
